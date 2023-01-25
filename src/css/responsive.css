@@ -75,6 +75,10 @@
     .container .imagem-titulo {
         max-width: 75%;
     }
+    .container .modal iframe {
+        width: 320px;
+        height: 180px;
+    }
  
 }
 
